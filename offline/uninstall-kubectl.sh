@@ -1,0 +1,1 @@
+../uninstall-kubectl.sh
