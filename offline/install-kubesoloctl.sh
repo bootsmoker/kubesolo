@@ -1,0 +1,1 @@
+../install-kubesoloctl.sh
